@@ -1,3 +1,4 @@
+"use strict";
 var startpaginaBtn = document.querySelector('.startpagina-btn');
 var kaders = Array.from(document.querySelectorAll('.kader'));
 var startpagina = document.querySelector('.startpagina');
